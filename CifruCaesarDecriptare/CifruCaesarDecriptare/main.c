@@ -33,7 +33,7 @@ int main()
 		}
 	}
 
-	printf("Mesajul criptat este: %s", mesaj);
+	printf("Mesajul decriptat este: %s", mesaj);
 
 	return 0;
 }
