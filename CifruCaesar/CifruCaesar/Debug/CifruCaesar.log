@@ -1,0 +1,7 @@
+﻿  main.c
+e:\proiecte visual\teme sd ( securitatea datelor )\cifrucaesar\cifrucaesar\main.c(9): warning C4013: 'gets' undefined; assuming extern returning int
+  main2.c
+e:\proiecte visual\teme sd ( securitatea datelor )\cifrucaesar\cifrucaesar\main2.c(9): warning C4013: 'gets' undefined; assuming extern returning int
+  Generating Code...
+main2.obj : error LNK2005: _main already defined in main.obj
+E:\Proiecte Visual\Teme SD ( Securitatea Datelor )\CifruCaesar\Debug\CifruCaesar.exe : fatal error LNK1169: one or more multiply defined symbols found
