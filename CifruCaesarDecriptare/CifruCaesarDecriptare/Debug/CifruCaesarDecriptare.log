@@ -1,0 +1,3 @@
+﻿  main.c
+e:\proiecte visual\teme sd ( securitatea datelor )\cifrucaesardecriptare\cifrucaesardecriptare\main.c(9): warning C4013: 'gets' undefined; assuming extern returning int
+  CifruCaesarDecriptare.vcxproj -> E:\Proiecte Visual\Teme SD ( Securitatea Datelor )\CifruCaesarDecriptare\Debug\CifruCaesarDecriptare.exe
