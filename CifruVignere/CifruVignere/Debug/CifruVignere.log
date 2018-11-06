@@ -1,0 +1,12 @@
+﻿  main.c
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(10): warning C4013: 'gets' undefined; assuming extern returning int
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(12): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(23): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(30): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(40): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(42): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(50): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(54): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(62): warning C4018: '<': signed/unsigned mismatch
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruvignere\cifruvignere\main.c(7): warning C4101: 'k': unreferenced local variable
+  CifruVignere.vcxproj -> E:\Proiecte Visual\Teme SD ( Securitatea Datelor )\CifruVignere\Debug\CifruVignere.exe
