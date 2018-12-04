@@ -1,0 +1,6 @@
+﻿  main.c
+e:\proiecte visual\teme sd ( securitatea datelor )\cifruautocheie\cifruautocheie\main.c(48): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  e:\proiecte visual\teme sd ( securitatea datelor )\cifruautocheie\cifruautocheie\main.c(48): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  e:\proiecte visual\teme sd ( securitatea datelor )\cifruautocheie\cifruautocheie\main.c(48): note: the missing variadic argument 2 is required by format string '%c'
+  e:\proiecte visual\teme sd ( securitatea datelor )\cifruautocheie\cifruautocheie\main.c(48): note: this argument is used as a buffer size
+  CifruAutocheie.vcxproj -> E:\Proiecte Visual\Teme SD ( Securitatea Datelor )\CifruAutocheie\Debug\CifruAutocheie.exe
